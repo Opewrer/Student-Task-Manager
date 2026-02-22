@@ -1,0 +1,8 @@
+<resources>
+    <string name="desc_hint">Введіть опис завдання</string>
+    <string name="due_date_not_set">Дата не встановлена</string>
+    <string name="priority_label">Пріоритет</string>
+    <string name="add_task_header">Додати завдання</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+</resources>
